@@ -13,7 +13,7 @@ The **Resume Analyzer** is a browser-based tool that provides instant, AI-powere
 
 ### Home / Upload Interface
 <p align="center">
-  <img src="2025-09-05.png" alt="Upload interface" width="65%"/>
+  <img src="2025-09-05.png" alt="Upload interface" width="85%"/>
   <img src="screenshot2.png" alt="Resume analysis view" width="45%"/>
 </p>
 
@@ -30,5 +30,6 @@ The **Resume Analyzer** is a browser-based tool that provides instant, AI-powere
 1. Clone or download the repo:
    ```bash
    git clone https://github.com/NavyaSree078/ResumeAnalyzerApp.git
+
 
 
