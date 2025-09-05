@@ -19,17 +19,13 @@ The **Resume Analyzer** is a browser-based tool that provides instant, AI-powere
 
 ---
 
-##  Tech Stack
-- **Frontend only** — pure HTML, CSS, and React (via CDN + Babel)
-- Lightweight and fast, runs directly in the browser
-- No backend, no API keys, and no dependencies to install—just open the page and go
 
----
 
 ##  How to Use Locally
 1. Clone or download the repo:
    ```bash
    git clone https://github.com/NavyaSree078/ResumeAnalyzerApp.git
+
 
 
 
